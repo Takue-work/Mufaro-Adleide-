@@ -254,4 +254,5 @@ Connect_SQLite_Database= ["Step-by-step explanation:,"
                           "Insert data — INSERT INTO adds records to the table.,"
                           "Commit changes — connection.commit() permanently saves changes.,"
                           "Query data — SELECT * FROM reads data from the database.,"
+
                           "Close the connection — Frees system resources and ensures changes are saved."]
